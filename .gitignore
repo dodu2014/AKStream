@@ -28,3 +28,4 @@ Thumbs.db
 .vs/**
 *.csproj.user
 *.ldb
+*.local
